@@ -44,14 +44,6 @@ h2{
 .bg-purple {
 	background-color: #35224B;
 }
-
-.imgrelleno{
-    background-image: url('/assets/img/hero.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 10rem;
-}
 .textwall-negro:after {
     content: " ";
     display: block;
