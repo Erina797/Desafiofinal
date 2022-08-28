@@ -21,6 +21,13 @@ h2{
 .padding-top{
     padding-top: 100%;
 }
+.imgrelleno{
+    background-image: url(/assets/img/hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem;
+}
 .carousel-indicators {
 	top: 460px;
 }
